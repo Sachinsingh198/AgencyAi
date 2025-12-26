@@ -9,7 +9,7 @@ A modern, high-performance digital agency portfolio website built with React. Fe
 
 ## 🚀 Live Demo
 
-(https://sactusagency.netlify.app/)
+https://sactusagency.netlify.app/
 
 ## ✨ Key Features
 
